@@ -19,7 +19,7 @@ Hola soy un desarrollador y estudiante de la carrera Tecnicatura Universitaria e
 - **Responsive Web Design Certification** - Freecodecamp
 
 ### 📨 Contacto:
-- [www.linkedin.com/in/tomas-rodriguez-code](www.linkedin.com/in/tomas-rodriguez-code)
+- [www.linkedin.com/in/tomas-rodriguez-code](https://www.linkedin.com/in/tomas-rodriguez-code/)
 - tomasrodriguezcode@gmail.com
 
 <p align="center">!Pongamonos en contacto!</p>
